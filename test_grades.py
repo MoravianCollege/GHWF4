@@ -11,6 +11,10 @@ def test_one_grade():
     grades = [42]
     assert compute_hw_average(grades) == 42
 
+def test_single_grade():
+    grades = [10,30]
+    assert compute_hw_average(grades) == 20
+
 # random comment test edition
 # random comment test edition
 # Para amarte necesito una razón
