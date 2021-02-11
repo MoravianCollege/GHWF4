@@ -4,8 +4,8 @@
 Practice space for using the Github Workflow.
 
 Participants:
-Ben Coleman
-Dylan Fodor
+Ben Coleman (coleman@moravian.edu)
+Dylan Fodor (fodord@moravian.edu)
 
 
 ## Setup
