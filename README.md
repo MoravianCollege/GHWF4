@@ -6,7 +6,7 @@ Practice space for using the Github Workflow.
 Participants:
 Ben Coleman
 Mark Morykan
-
+Matt Kosack
 
 ## Setup
 
