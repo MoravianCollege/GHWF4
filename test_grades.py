@@ -11,6 +11,6 @@ def test_single_grade():
     grades = [42]
     assert compute_hw_average(grades) == 42
 
-def foo():
+def test_foo():
     pass
 
